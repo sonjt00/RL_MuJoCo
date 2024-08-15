@@ -1,6 +1,6 @@
-Reinforcement Learning Term Project
+# Reinforcement Learning Term Project
 
-Solved the MuJoCo environments.
+## Solved the MuJoCo environments.
 ### Hopper
 ![image](./hopper.png)
 
