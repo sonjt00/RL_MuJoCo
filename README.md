@@ -1,13 +1,13 @@
 Reinforcement Learning Term Project
 
 Solved the MuJoCo environments.
-- Hopper
+### Hopper
 ![image](./hopper.png)
 
-- Walker
+### Walker
 ![image](./walker.png)
 
-- Half_Cheetah
+### Half_Cheetah
 ![image](./cheetah.png)
 
 Solved all the environments with TD3 Algorithm
