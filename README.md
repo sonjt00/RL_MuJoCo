@@ -2,8 +2,13 @@ Reinforcement Learning Term Project
 
 Solved the MuJoCo environments.
 - Hopper
+![image](./hopper.png)
+
 - Walker
+![image](./walker.png)
+
 - Half_Cheetah
+![image](./cheetah.png)
 
 Solved all the environments with TD3 Algorithm
 TD3 does Twin & Double learning.
