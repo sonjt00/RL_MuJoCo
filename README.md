@@ -1,6 +1,5 @@
 # Solved Mujoco environments with TD3 Algorithm
 
-## Solved the MuJoCo environments.
 ### Hopper
 ![image](./hopper.png)
 
