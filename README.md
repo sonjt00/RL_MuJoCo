@@ -1,4 +1,4 @@
-# Reinforcement Learning Term Project
+# Solved Mujoco environments with TD3 Algorithm
 
 ## Solved the MuJoCo environments.
 ### Hopper
